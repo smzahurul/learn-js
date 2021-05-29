@@ -29,3 +29,8 @@ class parson {
 
 const outPut = new parson("sumon", "khan")
 console.log(outPut)
+
+var b = 59
+var cd = 100
+var d = b + cd
+console.log(d)
